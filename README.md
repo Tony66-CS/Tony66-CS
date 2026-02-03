@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-> *“Challenge yourself; it’s the only path which leads to growth.”* – Morgan Freeman
+> *“Simplicity is the soul of efficiency.”* – Austin Freeman
 
 I’m a **software developer** with a strong interest in **operating systems, automation, and applied AI**.  
 I enjoy breaking down complex systems and turning ideas into working, reliable software.
