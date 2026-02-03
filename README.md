@@ -65,12 +65,12 @@ I enjoy breaking down complex systems and turning ideas into working, reliable s
 - Focused on test reliability and structured automation  
 
 ### 🔹 Rate My Professor AI
-🔗 [View on GitHub]([https://github.com/HamzaKhairy/rate-my-professor-analyzer](https://github.com/HamzaKhairy/rate-my-professor-analyzer))  
+🔗 [View on GitHub](https://github.com/HamzaKhairy/rate-my-professor-analyzer)  
 - AI-powered tool to fetch, summarize, and analyze professor reviews from RateMyProfessors.com  
 - Provides sentiment analysis and key insights to help students make informed course decisions  
 
 ### 🔹 Bulletin Board Application
-🔗 [View on GitHub]([https://github.com/Tony66-CS/Bulletin-Board-Application](https://github.com/mangopudding03/ProgrammingAssignment2))  
+🔗 [View on GitHub](https://github.com/Tony66-CS/Bulletin-Board-Application)  
 - Real-time public and private message boards with a fully interactive GUI  
 - Enables users to post messages, manage groups, and see live updates of users and messages
 
