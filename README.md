@@ -97,9 +97,10 @@ I enjoy breaking down complex systems and turning ideas into working, reliable s
 </div>
 
 ---
+
 ## 🎵 Currently Vibing To
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dzinb2e7b3qfhelxrnt6ou3d0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/user/dzinb2e7b3qfhelxrnt6ou3d0)
 
 <div align="center">
   <strong>Thanks for stopping by! Feel free to explore my work 🚀</strong>
