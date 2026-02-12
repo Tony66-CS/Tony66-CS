@@ -76,7 +76,7 @@ I enjoy breaking down complex systems and turning ideas into working, reliable s
 - Provides sentiment analysis and key insights to help students make informed course decisions  
 
 ### 🔹 Bulletin Board Application
-🔗 [View on GitHub](https://github.com/Tony66-CS/Bulletin-Board-Application)  
+🔗 [View on GitHub](https://github.com/mangopudding03/ProgrammingAssignment2)  
 - Real-time public and private message boards with a fully interactive GUI  
 - Enables users to post messages, manage groups, and see live updates of users and messages
 
